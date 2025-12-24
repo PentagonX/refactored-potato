@@ -4,7 +4,7 @@ import random
 import time
 
 # ---------------- CONFIG ----------------
-DISCORD_WEBHOOK = "YOUR_DISCORD_WEBHOOK_URL_HERE"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1453215318725099625/HLFmMKyGltLsiusvJ2uuTWzpUXE0jBw0RPo19MSoyUeNlqlg5VK-FakcBjG0nvUldYK7"
 TARGET_URL = "https://discordapp.com/api/v9/entitlements/gift-codes/{}?with_application=false&with_subscription_plan=true"
 # ----------------------------------------
 
